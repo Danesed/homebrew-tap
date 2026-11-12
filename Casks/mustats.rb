@@ -2,7 +2,7 @@
 # version and checksum of a release and writes the result into a tap checkout.
 cask "mustats" do
   version "0.2.1"
-  sha256 "9a40a8bf017a13bc4c7d9dad5ef18709ee33d3e5fc0f57a7ac625ebbf58f9646"
+  sha256 "8e09769e3934eea7fc17fc8fb3b918bd3a768daf9f8075635f44d5a0a637b0a5"
 
   url "https://github.com/Danesed/muStats/releases/download/v#{version}/muStats.dmg"
   name "μStats"
