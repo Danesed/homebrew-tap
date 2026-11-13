@@ -1,8 +1,8 @@
 # The cask for the Danesed/homebrew-tap repository. Scripts/cask.sh fills in the
 # version and checksum of a release and writes the result into a tap checkout.
 cask "mustats" do
-  version "0.2.1"
-  sha256 "8e09769e3934eea7fc17fc8fb3b918bd3a768daf9f8075635f44d5a0a637b0a5"
+  version "0.2.2"
+  sha256 "bbb737e32a03799a03ffacec2f796fa8740f3003e19d484ed6878e1f40375607"
 
   url "https://github.com/Danesed/muStats/releases/download/v#{version}/muStats.dmg"
   name "μStats"
